@@ -10,9 +10,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leandroff_dev) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div style="width: 100%; display: flex; flex-wrap: wrap;">
+  ![](https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
