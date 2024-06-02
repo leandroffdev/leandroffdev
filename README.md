@@ -10,9 +10,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leandroff_dev) 
 
 # 📊 GitHub Stats:
-<div style="width: 100%; display: flex; flex-wrap: wrap;">
-  ![](https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-wrap: wrap;">
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="grafico 1">
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="grafico 2">
 </div>
 
 <div style="display: inline_block"><br>
