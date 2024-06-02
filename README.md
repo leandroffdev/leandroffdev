@@ -1,6 +1,6 @@
 ## Olá! sou o Leandro França
 - 🔭 Procurando oportunidades: Frontend (HTML, CSS, JavaScript) | JavaScript Developer
-- 🌱 Estudando FullStack/UI Design (Origamid)
+- 🌱 Estudando Engenharia de Software (Estácio) e FullStack/UI Design (Origamid)
 - 📧 Contate-me no e-mail: leandrofrancagti@gmail.com
 
 ## 🌐 Socials:
@@ -10,9 +10,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leandroff_dev) 
 
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap;">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="grafico 1">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="grafico 2">
+<div style="display: flex; flex-wrap: wrap; justify-content: start">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
 </div>
 
 <div style="display: inline_block"><br>
