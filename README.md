@@ -9,7 +9,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leandroff_dev) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leandroff_dev) 
 
-# GitHub Status:
+## GitHub Status:
 <div style="display: flex; flex-wrap: wrap; justify-content: start">
   <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="">
   <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroffdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
@@ -25,6 +25,7 @@
   <img align="center" alt="Leandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 -->
+## Skills:
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="">
