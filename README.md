@@ -3,6 +3,8 @@
 - 🌱 Estudando Engenharia de Software (Estácio) e FullStack/UI Design (Origamid)
 - 📧 Contate-me no e-mail: leandrofrancagti@gmail.com
 
+### Veja meu [Portfólio](https://leandroffdev.github.io/desafiosDiarios/)
+
 ## Redes Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandroff_dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandroffdev) 
@@ -53,4 +55,5 @@ https://devicon.dev
 https://dev.to/
 https://shields.io/
 https://emojipedia.org/
+https://github.com/tandpfun/skill-icons
 -->
