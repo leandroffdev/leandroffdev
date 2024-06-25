@@ -1,11 +1,11 @@
-## Olá! sou o Leandro França
-- 🔭 Procurando oportunidades: Frontend (HTML, CSS, JavaScript) | JavaScript Developer
-- 🌱 Estudando Engenharia de Software (Estácio) e FullStack/UI Design (Origamid)
-- 📧 Contate-me no e-mail: leandrofrancagti@gmail.com
+## Hi! I'm Leandro França
+- 🔭 Looking for oportunities as: Frontend (HTML, CSS, JavaScript) | JavaScript Developer
+- 🌱 Studying Software Engineering (Estácio) e FullStack/UI Design (Origamid)
+- 📧 Text me: leandrofrancagti@gmail.com
 
-### Veja meu [Portfólio](https://leandroffdev.github.io/desafiosDiarios/)
+### See my [Portfólio](https://leandroffdev.github.io/desafiosDiarios/)
 
-## Redes Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandroff_dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandroffdev) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leandroff_dev) 
