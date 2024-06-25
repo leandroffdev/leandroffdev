@@ -1,6 +1,6 @@
 ## Hi! I'm Leandro França
 - 🔭 Looking for oportunities as: Frontend (HTML, CSS, JavaScript) | JavaScript Developer
-- 🌱 Studying Software Engineering (Estácio) e FullStack/UI Design (Origamid)
+- 🌱 Studying Software Engineering (Estácio) and FullStack/UI Design (Origamid)
 - 📧 Text me: leandrofrancagti@gmail.com
 
 ### See my [Portfólio](https://leandroffdev.github.io/desafiosDiarios/)
