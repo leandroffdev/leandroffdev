@@ -3,7 +3,7 @@
 - 🌱 Studying Software Engineering (Estácio) and FullStack/UI Design (Origamid)
 - 📧 Text me: leandrofrancagti@gmail.com
 
-### See my [Portfólio](https://leandroffdev.github.io/desafiosDiarios/)
+### See my [Portfólio](https://leandroffdev.github.io/paginaPessoal/)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leandroff_dev) 
